@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
-title:
+remote_theme: hydecorp/hydejack 
+#theme: jekyll-theme-cayman
+title: Code that shapes and moves things
 description: Visual Effects | Computer Animation | Digital Creatures | Virtual Crowds 
