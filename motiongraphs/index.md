@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment-aware Motion Graphs
-sidbar: 'motino graphs'
+sidebar: 'motino graphs'
 ---
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/ptmnKLcC1MI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
