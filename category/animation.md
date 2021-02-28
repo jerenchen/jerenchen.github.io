@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Character Animation
+title: computer animation
 ---
