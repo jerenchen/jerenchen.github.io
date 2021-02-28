@@ -1,4 +1,4 @@
 ---
 layout: category
-title: My Category
+title: Virtual Crowds
 ---

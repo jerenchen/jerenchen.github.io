@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer-animated Lion Dance
-sidebar_link: true
+category: animation
 ---
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/LAjacrR3eGI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
