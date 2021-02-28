@@ -1,6 +1,9 @@
-<iframe width="640" height="480" src="https://www.youtube.com/embed/LAjacrR3eGI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+layout: page
+title: Computer-animated Lion Dance
+---
 
-## Computer-animated Lion Dance
+<iframe width="640" height="480" src="https://www.youtube.com/embed/LAjacrR3eGI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 RhyCAP (Rhythmic Character Animation Playacting) is a procedural character animation system that generates interactive Chinese lion dance animation using high-level controls such as tempo, exaggeration, and timing.
 
