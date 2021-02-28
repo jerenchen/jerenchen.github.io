@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Multi-character Navigation & Collision Avoidance
+sidebar: 'crowd animation'
 sidebar_link: true
 ---
 
