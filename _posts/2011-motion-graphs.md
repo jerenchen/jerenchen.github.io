@@ -2,7 +2,7 @@
 layout: post
 title: Environment-aware Motion Graphs
 categories: 
-    - animation
+    - computer animation
 ---
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/ptmnKLcC1MI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
