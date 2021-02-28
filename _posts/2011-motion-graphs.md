@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Environment-aware Motion Graphs
 categories: 
     - animation
