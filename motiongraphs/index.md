@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Environment-aware Motion Graphs
+sidebar_link: true
 ---
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/ptmnKLcC1MI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Jungle Book: management, caching and preview of many animals
+title: 'The Jungle Book: management, caching and preview of many animals'
 sidebar_link: true
 ---
 
