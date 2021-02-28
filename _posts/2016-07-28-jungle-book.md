@@ -3,6 +3,7 @@ layout: page
 title: 'The Jungle Book: management, caching and preview of many animals'
 categories:
     - animation
+    - creatures
     - crowds
     - vfx
 ---
