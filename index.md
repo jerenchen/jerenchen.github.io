@@ -1,4 +1,4 @@
-I am software engineer in the Sofware Dev group at [Sony Pictures Imageworks](imageworks.com), Canada. I design and implement graphics/animation software tools used in the production of visual effects & animated feature films.
+I am software engineer in the Sofware Dev group at [Sony Pictures Imageworks](https://www.imageworks.com), Canada. I design and implement graphics/animation software tools used in the production of visual effects & animated feature films.
 
 ### Work
 

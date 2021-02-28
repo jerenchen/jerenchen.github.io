@@ -4,4 +4,4 @@ The creation of the visual effects for The Jungle Book was characterized by shot
 
 ### Publication
 
-- SIGGRAPH '16: ACM SIGGRAPH 2016 Talks &#149 July 2016 &#149 Article No.: 58 &#149 Pages 1–2 &#149 https://doi.org/10.1145/2897839.2927414
+- SIGGRAPH '16: ACM SIGGRAPH 2016 Talks &#149; July 2016 &#149; Article No.: 58 &#149; Pages 1–2 &#149; https://doi.org/10.1145/2897839.2927414
