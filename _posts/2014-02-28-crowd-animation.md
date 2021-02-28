@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Multi-character Navigation & Collision Avoidance
+permalink: crowdanimation
 category: 
     - animation
     - crowds
 ---
 
-<iframe width="720" height="540" src="https://www.youtube.com/embed/ec-9rofc3M0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ec-9rofc3M0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
