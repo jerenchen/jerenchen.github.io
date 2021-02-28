@@ -1,4 +1,5 @@
 ---
 layout: category
-title: virtual crowds
+title: digital crowds
+category: crowds
 ---

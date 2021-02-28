@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Environment-aware Motion Graphs
+permalink: /motiongraphs/
 categories: 
     - animation
 ---
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/ptmnKLcC1MI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 The creation of plausible human animation remains a perennial problem in computer graphics. To construct long animations it is common to stitch together a sequence of motions from a motion database. Typically, this is done in two stages: planning a route and then sampling motions from the database to follow that route. We introduce an environment-aware motion sampling technique that combines the planning and sampling stages. Our observation is that in the traditional approach the route generated in the first stage over-constrains the motion sampling so that it is relatively implausible that a human would follow this animation. We combine the motion sampling and planning and show that we can find shorter and more plausible animations.
 
