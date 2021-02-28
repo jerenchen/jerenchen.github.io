@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Virtual Crowds
+title: virtual crowds
 ---
