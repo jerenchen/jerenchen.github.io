@@ -4,7 +4,6 @@ title: 'The Jungle Book: management, caching and preview of many animals'
 permalink: junglebook
 categories:
     - anim
-    - creatures
     - dhc
     - vfx
 ---
